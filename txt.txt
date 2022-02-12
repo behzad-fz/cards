@@ -1,1 +1,6 @@
 i reilize user shiould not be able to input non0interger
+
+
+
+I realizre user can choose 2 type of mesurement , pixcels and percentage
+
